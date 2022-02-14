@@ -1,0 +1,19 @@
+@import "../../_globalColor.scss";
+
+form{
+    max-width: 64em;
+    padding: 12px 20px;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.MuiButton-root{
+    float: right;
+}
+
+.MuiTypography-paragraph{
+    font-size: 0.875em;
+    color: $wordCountTextColor;
+    text-align: right;
+    display: inline-block;
+}
