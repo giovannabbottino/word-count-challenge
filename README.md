@@ -1,4 +1,5 @@
 # Word Count Challenge
+[![npm](https://img.shields.io/badge/npm-v6.14-red)](https://www.npmjs.com/package/npm/v/6.14.15) [![React](https://img.shields.io/badge/React-v17-blue)](https://pt-br.reactjs.org/blog/2020/10/20/react-v17.html)
 
 ## Acceptance Criteria
 
